@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**AfraGngr/AfraGngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨This is Afra ✨ I'm a full stack developer, interested in writing new codes, dreaming new designs and creating new web sites but my speciality is front-end developing. I am student at Clarusway and also developer at Curios Coders Full Stack Team.
 
-Here are some ideas to get you started:
+You may find some projects on my repos, feel free to contribute or using them. 
+“Share your knowledge. It is a way to achieve immortality.” (Dalai Lama) ⚡⚡⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬💬💬About
+
+✨ Languages: Javascript, Python
+
+✨ Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
+
+✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
