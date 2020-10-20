@@ -12,3 +12,5 @@ You may find some projects on my repos, feel free to contribute or using them.
 ✨ Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
 
 ✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
+
+https://www.linkedin.com/in/afra-g%C3%BCng%C3%B6r-5455221b8/
